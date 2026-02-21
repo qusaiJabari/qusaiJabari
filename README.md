@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp9915427.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
+<img src="https://wallpapercave.com/wp/a36bDJg.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
 10+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
 
