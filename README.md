@@ -1,71 +1,46 @@
 <div align="center">
 
-# Qusai
+<img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=2000&auto=format&fit=crop" width="100%" />
 
-> Software Engineering · Accounting · Systems Thinking  
-> Building structured systems in a chaotic world.
+<br>
+
+# 𓂀 Qusai
+
+### *Scientia • Disciplina • Structura*
+
+---
+
+> “Per Aspera Ad Astra”
 
 </div>
 
 ---
 
-## About Me
+## 🕯 About
 
-I am a software engineer focused on structure, clarity, and system design.  
-My interests revolve around:
+I am a systems-oriented software engineer  
+drawn to structure, rigor, and intellectual depth.
 
-- Software Architecture
-- Clean Code & System Design
-- ERP Systems
-- Accounting Logic & Financial Systems
-- Mathematics for Computer Science
-- Artificial Intelligence
+My work lives at the intersection of:
 
-I believe that good software is not written —  
-it is **engineered with intention**.
+- Software Architecture  
+- Financial Systems Engineering  
+- Mathematical Foundations  
+- ERP Systems  
+- Clean Code Philosophy  
 
----
-
-## Current Focus
-
-- Deepening my understanding of Software Architecture
-- Building financial & ERP systems
-- Studying mathematics rigorously
-- Strengthening English communication (technical & formal)
+I design systems the way old scholars built libraries:  
+carefully, deliberately, and with permanence in mind.
 
 ---
 
-## Philosophy
+## 📚 Current Study
 
-> Simplicity is not the absence of complexity.  
-> It is mastery over it.
-
----
-
-## Tools & Technologies
-
-- C++
-- Python
-- SQL
-- Odoo ERP
-- Git & GitHub
-- System Design Principles
+- Advanced System Design
+- Mathematical Structures in Computer Science
+- Accounting & Financial Logic Modeling
+- Artificial Intelligence Foundations
 
 ---
 
-## Selected Projects
-
-- Financial Account Management Systems
-- ERP Training Documentation Systems
-- Study Management Applications
-- Structured Technical Documentation Frameworks
-
----
-
-<div align="center">
-
-_"Discipline builds clarity.  
-Clarity builds systems.  
-Systems build power."_
-
-</div>
+## ⚙ Technical Arsenal
