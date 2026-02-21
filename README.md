@@ -1,46 +1,98 @@
-<div align="center">
+<!doctype html>
+<html lang="en">
 
-<img src="https://images.unsplash.com/photo-1555440186-7f0a5a6a5537?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" />
+  <title></title>
 
-<br>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
 
-# 𓂀 Qusai
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="index.html" id="nav-project-title"></a>
 
-### *Scientia • Disciplina • Structura*
+    <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+      <ul class="navbar-nav ml-auto" id="navigation"></ul>
+    </div>
+  </nav>
 
----
+  <main role="main">
 
-> “Per Aspera Ad Astra”
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <h1 class="display-5 text-center" id="head-title"><br></h1>
+            <h5 class="display-5 text-center" id="head-subtitle"><a href="#"></a><br></h5>
+          </div>
+        </div>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col-md">
+            <div class="embed-responsive embed-responsive-16by9" id="video"></div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-</div>
+    <div class="container section" id="abstract">
+      <div class="row" id="abstract-text"></div>
+      <div class="row" id="overview"></div>
+    </div>
 
----
+    <div id="content"></div>
 
-## 🕯 About
+    <div class="container section" id="contributors">
+      <div class="row">
+        <div class="col-sm">
+          <h2 class="text-center">Project Contributors</h2>
+          <hr>
+        </div>
+      </div>
+      <br>
+      <br>
 
-I am a systems-oriented software engineer  
-drawn to structure, rigor, and intellectual depth.
+    </div>
+    <div class="container section" id="links">
+      <div class="row">
+        <div class="col-sm">
+          <h2 class="text-center">Links</h2>
+          <hr>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="row" id="links-area"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <h2 class="text-center">Citation</h2>
+            <hr>
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-sm">
+            <p>To cite our work, please use:</p>
+            <pre class="citation"></pre>
+          </div>
+        </div>
+      </div>
+    </div>
 
-My work lives at the intersection of:
+    <div id="footer"></div>
+  </main>
+</body>
 
-- Software Architecture  
-- Financial Systems Engineering  
-- Mathematical Foundations  
-- ERP Systems  
-- Clean Code Philosophy  
+<script src="script/scroll.js"></script>
+<script src="script/content.js"></script>
 
-I design systems the way old scholars built libraries:  
-carefully, deliberately, and with permanence in mind.
-
----
-
-## 📚 Current Study
-
-- Advanced System Design
-- Mathematical Structures in Computer Science
-- Accounting & Financial Logic Modeling
-- Artificial Intelligence Foundations
-
----
-
-## ⚙ Technical Arsenal
+</html>
