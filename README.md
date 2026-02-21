@@ -1,98 +1,28 @@
-<!doctype html>
-<html lang="en">
+<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <link rel="icon" />
-  <title></title>
+10+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
 
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-</head>
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
-<body>
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <a class="navbar-brand" href="index.html" id="nav-project-title"></a>
+Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
 
-    <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
-      <ul class="navbar-nav ml-auto" id="navigation"></ul>
-    </div>
-  </nav>
+<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
+<p>
+  <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+</p>
 
-  <main role="main">
+<hr>
 
-    <div class="jumbotron">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm">
-            <h1 class="display-5 text-center" id="head-title"><br></h1>
-            <h5 class="display-5 text-center" id="head-subtitle"><a href="#"></a><br></h5>
-          </div>
-        </div>
-        <br>
-        <br>
-        <div class="row">
-          <div class="col-md">
-            <div class="embed-responsive embed-responsive-16by9" id="video"></div>
-          </div>
-        </div>
-      </div>
-    </div>
+#### Want to Build Your Own?
 
-    <div class="container section" id="abstract">
-      <div class="row" id="abstract-text"></div>
-      <div class="row" id="overview"></div>
-    </div>
+Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
 
-    <div id="content"></div>
+1. Create a *special* GitHub repository with your username as repository name. My username is `Hartrampf` so my profile readme repository has the name `Hartrampf`.
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
 
-    <div class="container section" id="contributors">
-      <div class="row">
-        <div class="col-sm">
-          <h2 class="text-center">Project Contributors</h2>
-          <hr>
-        </div>
-      </div>
-      <br>
-      <br>
-
-    </div>
-    <div class="container section" id="links">
-      <div class="row">
-        <div class="col-sm">
-          <h2 class="text-center">Links</h2>
-          <hr>
-        </div>
-      </div>
-      <br>
-      <br>
-      <div class="row" id="links-area"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm">
-            <h2 class="text-center">Citation</h2>
-            <hr>
-          </div>
-        </div>
-        <br>
-        <div class="row">
-          <div class="col-sm">
-            <p>To cite our work, please use:</p>
-            <pre class="citation"></pre>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div id="footer"></div>
-  </main>
-</body>
-
-<script src="script/scroll.js"></script>
-<script src="script/content.js"></script>
-
-</html>
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
